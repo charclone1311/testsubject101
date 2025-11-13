@@ -1,6 +1,5 @@
 print("Sayonara")
 
-print("Ohayo!!!")
+print("Tekkadan!!!")
 
-print("Gundam")
 
