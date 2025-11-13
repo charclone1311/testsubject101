@@ -1,1 +1,3 @@
 print("Sayonara")
+
+print("Ohayo!!!")
